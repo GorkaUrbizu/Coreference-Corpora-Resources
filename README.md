@@ -1,5 +1,6 @@
 # Coreference-Corpora-List
 ## List of corpora annotated for coreference for different languages
+(contributions are welcome :wink:)
 
 ## Arabic:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
