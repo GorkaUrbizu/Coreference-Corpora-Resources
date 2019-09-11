@@ -24,5 +24,7 @@
 - [Polish Coreference Corpus](http://zil.ipipan.waw.pl/PolishCoreferenceCorpus)
 ## Portuguese:
 - [corref-pt](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/corref-pt/)
+## Russian:
+- [RuCor](http://rucoref.maimbava.net/)
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
