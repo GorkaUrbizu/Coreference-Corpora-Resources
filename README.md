@@ -1,19 +1,19 @@
-## Coreference-Corpora-List
-# List of corpora annotated for coreference for different languages
+# Coreference-Corpora-List
+## List of corpora annotated for coreference for different languages
 
-# Basque: 
+## Basque: 
 - [EPEC-korref](http://ixa.si.ehu.es/node/4487?language=en)
-# Catalan
+## Catalan
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
-# English:
+## English:
 - Ontonotes 5.0
 - WikiCoref
 - ParCorFull
-# French
+## French
 - Speech
 - Democrat
-# German:
+## German:
 - ParCorFull
-# Spanish:
+## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
 
