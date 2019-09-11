@@ -2,7 +2,7 @@
 ## List of corpora annotated for coreference for different languages
 
 ## Basque: 
-- [EPEC-korref](http://ixa.si.ehu.es/node/4487?language=en)
+- [EPEC-KORREF](http://ixa.si.ehu.es/node/4487?language=en)
 ## Catalan:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
 ## English:
