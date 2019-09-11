@@ -10,10 +10,12 @@
 - [WikiCoref](http://rali.iro.umontreal.ca/rali/?q=en/wikicoref)
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 ## French:
-- Speech
-- Democrat
+- [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
+- [Democrat](https://www.ortolang.fr/market/corpora/democrat/v1)
 ## German:
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
+## Portuguese
+- [corref-pt](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/corref-pt/)
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
 
