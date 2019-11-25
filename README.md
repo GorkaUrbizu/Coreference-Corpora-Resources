@@ -1,5 +1,5 @@
 # Coreference-Corpora-List
-## List of corpora annotated for coreference for different languages
+## List of corpora annotated for coreference-resolution for different languages
 (contributions are welcome :wink:)
 
 ## Arabic:
