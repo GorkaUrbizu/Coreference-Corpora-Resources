@@ -22,6 +22,10 @@
 - [Portuguese, Spanish and Galician coreference corpora](https://gramatica.usc.es/~marcos/resources/index.html)
 ## German:
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
+## Lithuanian:
+- [Lithuanian Coreference Corpus](https://clarin.vdu.lt/xmlui/handle/20.500.11821/19)
+## Persian:
+- [PerCoref]()
 ## Polish:
 - [Polish Coreference Corpus](http://zil.ipipan.waw.pl/PolishCoreferenceCorpus)
 ## Portuguese:
