@@ -11,12 +11,13 @@
 ## Chinese:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 ## Dutch:
-- []()
+- [Coreference Corpus for Dutch ](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [WikiCoref](http://rali.iro.umontreal.ca/rali/?q=en/wikicoref)
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 - [PreCo](https://preschool-lab.github.io/PreCo/)
+- [LitBank](https://github.com/dbamman/litbank)
 ## French:
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [Democrat](https://www.ortolang.fr/market/corpora/democrat/v1)
@@ -27,7 +28,7 @@
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
 ## Korean:
-- []()
+- [Korean Coreference Dataset](https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.16.0115.0896)
 ## Lithuanian:
 - [Lithuanian Coreference Corpus](https://clarin.vdu.lt/xmlui/handle/20.500.11821/19)
 ## Persian:
