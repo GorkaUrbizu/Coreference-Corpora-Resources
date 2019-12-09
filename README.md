@@ -10,6 +10,8 @@
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
 ## Chinese:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
+## Dutch:
+- []()
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [WikiCoref](http://rali.iro.umontreal.ca/rali/?q=en/wikicoref)
@@ -22,10 +24,14 @@
 - [Portuguese, Spanish and Galician coreference corpora](https://gramatica.usc.es/~marcos/resources/index.html)
 ## German:
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
+## Hungarian:
+- [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
+## Korean:
+- []()
 ## Lithuanian:
 - [Lithuanian Coreference Corpus](https://clarin.vdu.lt/xmlui/handle/20.500.11821/19)
 ## Persian:
-- [PerCoref]()
+- [PerCoref](https://www.aclweb.org/anthology/L18-1638.pdf)
 ## Polish:
 - [Polish Coreference Corpus](http://zil.ipipan.waw.pl/PolishCoreferenceCorpus)
 ## Portuguese:
