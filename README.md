@@ -1,4 +1,4 @@
-# Coreference-Corpora-List
+# Coreference Corpora for Multiple Languages
 ## List of corpora annotated for coreference-resolution for different languages
 (contributions are welcome :wink:)
 
@@ -27,6 +27,8 @@
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
+## Japanese:
+- [NAIST Text Corpus](https://sites.google.com/site/naisttextcorpus/)
 ## Korean:
 - [Korean Coreference Dataset](https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.16.0115.0896)
 ## Lithuanian:
