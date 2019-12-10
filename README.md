@@ -18,6 +18,7 @@
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 - [PreCo](https://preschool-lab.github.io/PreCo/)
 - [LitBank](https://github.com/dbamman/litbank)
+- [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
 ## French:
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [Democrat](https://www.ortolang.fr/market/corpora/democrat/v1)
