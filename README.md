@@ -1,4 +1,4 @@
-# Coreference Corpora List
+# Coreference Corpora Resources
 ## List of corpora annotated for coreference-resolution for multiple languages and their links for downloading or +info
 (contributions are welcome :wink:)
 
@@ -24,7 +24,7 @@
 ## Galician:
 - [Portuguese, Spanish and Galician coreference corpora](https://gramatica.usc.es/~marcos/resources/index.html)
 ## German:
-- [ParCorFull](https://github.com/chardmeier/parcor-full)
+- [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
 ## Japanese:
