@@ -16,6 +16,7 @@
 - [Prague Dependency Treebank 3.5](https://ufal.mff.cuni.cz/pdt3.5)
 ## Dutch:
 - [Coreference Corpus for Dutch](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
+- [COREA](https://www.researchgate.net/publication/220746028_A_Coreference_Corpus_and_Resolution_System_for_Dutch)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
@@ -51,3 +52,5 @@
 - [RuCor](http://rucoref.maimbava.net/)
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
+## Tibetan:
+- [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
