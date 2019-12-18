@@ -4,27 +4,32 @@
 
 ## Arabic:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
+- [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
 ## Basque: 
 - [EPEC-KORREF](http://ixa.si.ehu.es/node/4487?language=en)
 ## Catalan:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
 ## Chinese:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
+- [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
 ## Dutch:
 - [Coreference Corpus for Dutch ](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
+- [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
+- [PreCo](https://preschool-lab.github.io/PreCo/)
+- [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
 - [WikiCoref](http://rali.iro.umontreal.ca/rali/?q=en/wikicoref)
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
-- [PreCo](https://preschool-lab.github.io/PreCo/)
 - [LitBank](https://github.com/dbamman/litbank)
-- [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
 ## French:
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [Democrat](https://www.ortolang.fr/market/corpora/democrat/v1)
 ## Galician:
 - [Portuguese, Spanish and Galician coreference corpora](https://gramatica.usc.es/~marcos/resources/index.html)
 ## German:
+- [TüBa-D/Z](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/)
+- [Postdam commentary corpus](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
