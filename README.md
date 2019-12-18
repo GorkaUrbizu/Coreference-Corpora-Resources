@@ -12,8 +12,10 @@
 ## Chinese:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
+## Czech
+- [Prague Dependency Treebank 3.5](https://ufal.mff.cuni.cz/pdt3.5)
 ## Dutch:
-- [Coreference Corpus for Dutch ](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
+- [Coreference Corpus for Dutch](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
