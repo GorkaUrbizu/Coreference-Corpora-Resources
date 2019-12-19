@@ -7,6 +7,8 @@
 - [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
 ## Basque: 
 - [EPEC-KORREF](http://ixa.si.ehu.es/node/4487?language=en)
+## Bengali:
+- [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Catalan:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
 ## Chinese:
@@ -54,5 +56,7 @@
 - [RuCor](http://rucoref.maimbava.net/)
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
+## Tamil:
+- [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Tibetan:
 - [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
