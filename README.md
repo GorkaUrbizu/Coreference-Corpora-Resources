@@ -14,7 +14,7 @@
 ## Chinese:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [ACE-2005](https://catalog.ldc.upenn.edu/LDC2006T06)
-## Czech
+## Czech:
 - [Prague Dependency Treebank 3.5](https://ufal.mff.cuni.cz/pdt3.5)
 ## Dutch:
 - [Coreference Corpus for Dutch](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
@@ -37,6 +37,8 @@
 - [TüBa-D/Z](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/)
 - [Postdam commentary corpus](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
+## Hindi:
+- [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
 ## Japanese:
