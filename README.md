@@ -1,6 +1,6 @@
 # Coreference Corpora Resources
 ## List of corpora annotated for coreference-resolution for multiple languages and their links for downloading or +info
-(contributions are welcome :wink:)
+(contributions are welcomed :wink:)
 
 ## Arabic:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
