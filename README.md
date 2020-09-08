@@ -37,6 +37,7 @@
 ## German:
 - [TüBa-D/Z](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/)
 - [Postdam commentary corpus](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
+- [GerDraCor-Coref](https://github.com/quadrama/gerdracor-coref)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
 ## Hindi:
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
