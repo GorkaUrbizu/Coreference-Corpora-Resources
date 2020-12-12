@@ -36,6 +36,7 @@
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [CRISTAL-GRESEC/XRCE corpus](https://catalogue.elra.info/en-us/repository/browse/ELRA-W0032/)
 - [Democrat](https://www.ortolang.fr/market/corpora/democrat/v1)
+- [Anaphora Analysis in French Emails](https://www.aclweb.org/anthology/2020.crac-1.17.pdf)
 ## Galician:
 - [Portuguese, Spanish and Galician coreference corpora](https://gramatica.usc.es/~marcos/resources/index.html)
 ## German:
