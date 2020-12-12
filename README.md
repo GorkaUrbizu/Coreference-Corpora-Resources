@@ -19,6 +19,8 @@
 ## Dutch:
 - [Coreference Corpus for Dutch](http://universal.elra.info/product_info.php?cPath=42_43&products_id=2278)
 - [COREA](https://www.researchgate.net/publication/220746028_A_Coreference_Corpus_and_Resolution_System_for_Dutch)
+- [RiddleCoref](https://github.com/andreasvc/dutchcoref)
+- [Sonar-1](https://github.com/andreasvc/dutchcoref)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
