@@ -30,6 +30,8 @@
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 - [LitBank](https://github.com/dbamman/litbank)
 - [GAP coreference dataset (gender-balanced)](https://github.com/google-research-datasets/gap-coreference)
+- [GUM](https://corpling.uis.georgetown.edu/gum/)
+- [GUM (silver)](https://github.com/gucorpling/amalgum)
 ## French:
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [CRISTAL-GRESEC/XRCE corpus](https://catalogue.elra.info/en-us/repository/browse/ELRA-W0032/)
