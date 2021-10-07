@@ -47,6 +47,8 @@
 - [Postdam commentary corpus](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 - [GerDraCor-Coref](https://github.com/quadrama/gerdracor-coref)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
+## German Sign Language:
+- [Signed Coreference Resolution](https://github.com/kayoyin/scr)
 ## Hindi:
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Hungarian:
