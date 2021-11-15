@@ -48,7 +48,7 @@
 - [GerDraCor-Coref](https://github.com/quadrama/gerdracor-coref)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
 ## German Sign Language:
-- [Signed Coreference Resolution](https://github.com/kayoyin/scr)
+- [Signed Coreference Resolution](https://github.com/kayoyin/scr/tree/main/dgs-coref)
 ## Hindi:
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Hungarian:
