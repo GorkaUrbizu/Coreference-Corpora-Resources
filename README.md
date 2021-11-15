@@ -1,5 +1,6 @@
 # Coreference Corpora Resources
-## List of corpora annotated for coreference-resolution for multiple languages and their links for downloading or +info
+## List of corpora annotated for coreference-resolution for multiple languages 
+### and their links for downloading or +info
 (contributions are welcome :wink:)
 
 ## Arabic:
