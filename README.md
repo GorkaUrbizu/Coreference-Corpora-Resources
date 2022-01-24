@@ -61,7 +61,7 @@
 ## Lithuanian:
 - [Lithuanian Coreference Corpus](https://clarin.vdu.lt/xmlui/handle/20.500.11821/19)
 ## Norwegian (Bokmål):
-- [Norwegian](http://dspace.ut.ee/bitstream/handle/10062/7362/Johansson_Noklestad.pdf)
+- [Oslo Corpus](http://dspace.ut.ee/bitstream/handle/10062/7362/Johansson_Noklestad.pdf)
 ## Persian:
 - [PerCoref](https://www.aclweb.org/anthology/L18-1638.pdf)
 ## Polish:
