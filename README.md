@@ -22,6 +22,8 @@
 - [COREA](https://www.researchgate.net/publication/220746028_A_Coreference_Corpus_and_Resolution_System_for_Dutch)
 - [RiddleCoref](https://github.com/andreasvc/dutchcoref)
 - [Sonar-1](https://github.com/andreasvc/dutchcoref)
+## Danish:
+- [Dacoref](https://github.com/alexandrainst/danlp/blob/master/docs/docs/dacoref_docs.md)
 ## English:
 - [Ontonotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
 - [The ARRAU Corpus](https://catalog.ldc.upenn.edu/LDC2013T22)
