@@ -71,6 +71,8 @@
 ## Portuguese:
 - [corref-pt](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/corref-pt/)
 - [summ-it++](https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/summ-it/)
+## Quechua:
+- [qxoRef](https://github.com/epankratz/qxoRef)
 ## Russian:
 - [RuCor](http://rucoref.maimbava.net/)
 ## Spanish:
