@@ -75,6 +75,7 @@
 - [qxoRef](https://github.com/epankratz/qxoRef)
 ## Russian:
 - [RuCor](http://rucoref.maimbava.net/)
+- [Ru-eval-2019](https://github.com/natasha/corus/issues/59)
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
 ## Tamil:
