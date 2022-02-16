@@ -82,3 +82,5 @@
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Tibetan:
 - [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
+## Turkish:
+- [MARMARA](https://bitbucket.org/knowlp/marmara-turkish-coreference-corpus/src/master/)
