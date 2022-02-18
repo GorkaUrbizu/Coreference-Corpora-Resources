@@ -32,13 +32,17 @@
 - [WikiCoref](http://rali.iro.umontreal.ca/rali/?q=en/wikicoref)
 - [ParCorFull](https://github.com/chardmeier/parcor-full)
 - [LitBank](https://github.com/dbamman/litbank)
-- [GAP coreference dataset (gender-balanced)](https://github.com/google-research-datasets/gap-coreference)
 - [GUM](https://corpling.uis.georgetown.edu/gum/)
 - [GUM (silver)](https://github.com/gucorpling/amalgum)
 - [KnowRef](https://github.com/aemami1/KnowRef/tree/master/Knowref_dataset)
 - [TwiConv](https://github.com/berfingit/TwiConv)
 - [MuDoCo](https://github.com/facebookresearch/mudoco/)
 - [Quored (QA)](https://allenai.org/data/quoref)
+### Gender and bias (EN):
+- [GAP coreference dataset (gender-balanced)](https://github.com/google-research-datasets/gap-coreference)
+- [WinoBias](https://uclanlp.github.io/corefBias/overview)
+- [Maybe Ambiguous Pronoun (MAP)](https://github.com/TristaCao/into_inclusivecoref)
+- [Gender-Inclusive Coreference Resolution (GIcoref)](https://github.com/TristaCao/into_inclusivecoref)
 ## French:
 - [ANCOR_Centre](http://www.info.univ-tours.fr/~antoine/parole_publique/ANCOR_Centre/index.html)
 - [CRISTAL-GRESEC/XRCE corpus](https://catalogue.elra.info/en-us/repository/browse/ELRA-W0032/)
@@ -51,7 +55,7 @@
 - [Postdam commentary corpus](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 - [GerDraCor-Coref](https://github.com/quadrama/gerdracor-coref)
 - [ParCorFull: German/English Parallel Corpus](https://github.com/chardmeier/parcor-full)
-## German Sign Language:
+### German Sign Language:
 - [DGS-Coref](https://github.com/kayoyin/scr/tree/main/dgs-coref)
 ## Hindi:
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
