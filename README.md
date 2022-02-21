@@ -38,6 +38,8 @@
 - [TwiConv](https://github.com/berfingit/TwiConv)
 - [MuDoCo](https://github.com/facebookresearch/mudoco/)
 - [Quored (QA)](https://allenai.org/data/quoref)
+- [ContraCAT: Contrastive Coreference Analytical Templates (for MT)](https://github.com/BennoKrojer/ContraCAT)
+- [SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts](https://scico.apps.allenai.org/)
 ### Gender and bias (EN):
 - [GAP coreference dataset (gender-balanced)](https://github.com/google-research-datasets/gap-coreference)
 - [WinoBias](https://uclanlp.github.io/corefBias/overview)
