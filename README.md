@@ -92,3 +92,6 @@
 - [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
 ## Turkish:
 - [Marmara](https://bitbucket.org/knowlp/marmara-turkish-coreference-corpus/src/master/)
+
+## Multilingual:
+- [XWINO: WSC in 6 lang](https://github.com/yandex-research/crosslingual_winograd)
