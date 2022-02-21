@@ -40,6 +40,7 @@
 - [Quored (QA)](https://allenai.org/data/quoref)
 - [ContraCAT: Contrastive Coreference Analytical Templates (for MT)](https://github.com/BennoKrojer/ContraCAT)
 - [SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts](https://scico.apps.allenai.org/)
+- [ECB+ (extension to the EventCorefBank)](http://www.newsreader-project.eu/results/data/the-ecb-corpus/)
 ### Gender and bias (EN):
 - [GAP coreference dataset (gender-balanced)](https://github.com/google-research-datasets/gap-coreference)
 - [WinoBias](https://uclanlp.github.io/corefBias/overview)
