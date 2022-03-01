@@ -64,6 +64,8 @@
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
+## Indonesian:
+- [Indonesian Coreference Corpus](https://github.com/tugas-akhir-nlp/indonesian-coreference-resolution-cnn)
 ## Japanese:
 - [NAIST Text Corpus](https://sites.google.com/site/naisttextcorpus/)
 ## Korean:
