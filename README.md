@@ -94,6 +94,8 @@
 - [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
 ## Turkish:
 - [Marmara](https://bitbucket.org/knowlp/marmara-turkish-coreference-corpus/src/master/)
+## Ukranian:
+- [Ukrainian Coreference Corpus](https://www.semanticscholar.org/paper/Coreference-Resolution-Method-Using-a-Convolutional-Pogorilyy-Kramov/43520358658be036c12c8f9afda05dfbd86ceca5) (or [here](https://ieeexplore.ieee.org/abstract/document/9678674) )
 
 ## Multilingual:
 - [XWINO: WSC in 6 lang](https://github.com/yandex-research/crosslingual_winograd)
