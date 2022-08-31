@@ -62,6 +62,7 @@
 - [DGS-Coref](https://github.com/kayoyin/scr/tree/main/dgs-coref)
 ## Hindi:
 - [ICON-2011](http://au-kbc.org/nlp/index.html)
+- [Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
 ## Indonesian:
