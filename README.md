@@ -9,7 +9,7 @@
 ## Basque: 
 - [EPEC-KORREF](http://ixa.si.ehu.es/node/4487?language=en)
 ## Bengali:
-- [ICON-2011](http://au-kbc.org/nlp/index.html)
+- [ICON-2011](https://www.academia.edu/3275626/Anaphora_Resolution_for_Bengali_Hindi_and_Tamil_Using_RandomTree_Algorithm_in_Weka)
 ## Catalan:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-ca/)
 ## Chinese:
@@ -61,7 +61,7 @@
 ### German Sign Language:
 - [DGS-Coref](https://github.com/kayoyin/scr/tree/main/dgs-coref)
 ## Hindi:
-- [ICON-2011](http://au-kbc.org/nlp/index.html)
+- [ICON-2011](https://www.academia.edu/3275626/Anaphora_Resolution_for_Bengali_Hindi_and_Tamil_Using_RandomTree_Algorithm_in_Weka)
 - [Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/)
 ## Hungarian:
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113)
@@ -90,7 +90,7 @@
 ## Spanish:
 - [AnCora-CO-Es](http://timm.ujaen.es/recursos/ancora-co-es/)
 ## Tamil:
-- [ICON-2011](http://au-kbc.org/nlp/index.html)
+- [ICON-2011](https://www.academia.edu/3275626/Anaphora_Resolution_for_Bengali_Hindi_and_Tamil_Using_RandomTree_Algorithm_in_Weka)
 ## Tibetan:
 - [Tusnelda B11](http://www.lingexp.uni-tuebingen.de/sfb441/b11/index-engl.html)
 ## Turkish:
