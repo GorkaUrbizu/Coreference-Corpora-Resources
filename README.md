@@ -1,5 +1,5 @@
 # Coreference Corpora Resources
-## List of corpora annotated for coreference-resolution for many languages 
+## List of corpora annotated for coreference-resolution for 30 languages 
 ### and their links for downloading or +info
 (contributions are welcome :wink:)
 
