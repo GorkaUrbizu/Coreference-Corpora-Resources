@@ -101,4 +101,4 @@
 
 ## Multilingual:
 - [XWINO: WSC in 6 lang](https://github.com/yandex-research/crosslingual_winograd)
-- [CorefUD 1.0: Coreference in Universal Dependencies 1.0, in 11 lang](https://ufal.mff.cuni.cz/corefud)
+- [CorefUD: Coreference in Universal Dependencies, in 11 lang](https://ufal.mff.cuni.cz/corefud)
